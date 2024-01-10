@@ -21,6 +21,9 @@ git config # to configure local machine
 git init # to initialize and download all required dependencies
 <p align="left">
 </p>
+git clone # to copy a remote repository into a local machine
+<p align="left">
+</p>
 git add . # to add all changes made in local repository for staging
 <p align="left">
 </p>
