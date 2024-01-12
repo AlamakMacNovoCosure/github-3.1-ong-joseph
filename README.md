@@ -1,6 +1,6 @@
-# github-3.1-ong-joseph
+## github-3.1-ong-joseph
 <h1 align="center">Hi 👋, I'm JOSEPH ONG</h1>
-<h3 align="center">A passionate DevOps operator from Singapore</h3>
+<h3 align="center">A passionate DevOps developer from Singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alamakmacnovocosure&label=Profile%20views&color=0e75b6&style=flat" alt="alamakmacnovocosure" /> </p>
 
@@ -23,3 +23,8 @@
 - **git push** to push changes to remote repository
 - **git reset** to roll back to last change before commiting to remote repository
 
+## Lesson on GIT II
+### Commands as follows:-
+- **git branch** to create a branch from the main
+- **git checkout** to go to the branch created
+-  
